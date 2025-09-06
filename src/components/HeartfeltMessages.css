@@ -1,0 +1,9 @@
+.heartfelt-message {
+  background: #fff0f6;
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 8px;
+  color: #d6336c;
+  font-size: 1.1em;
+  box-shadow: 0 2px 8px rgba(220, 38, 120, 0.08);
+}
